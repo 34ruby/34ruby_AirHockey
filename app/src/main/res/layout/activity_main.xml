@@ -17,16 +17,6 @@
         app:srcCompat="@drawable/main" />
 
 
-    <TextView
-        android:layout_width="161dp"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="30dp"
-        android:layout_marginTop="10dp"
-        android:text="Air Hockey Ping Pong"
-        android:textColor="#FFFFFF"
-
-        android:textSize="25dp" />
-
 
 
     <ImageView
